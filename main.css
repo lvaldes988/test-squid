@@ -1,0 +1,31 @@
+/*question #1*/
+h1{
+    color: rgb(228, 10, 144);
+    font-family: cursive;
+}
+/*question #2*/
+.colleges{
+    background-color: #c83;
+    
+}
+/*question #3*/
+.topics{
+    list-style-type : none
+       
+}
+
+.pics{
+    max-width: 300px;/*question #4*/
+    border: 10px double red;/*extra*/
+    margin: 10px 20px 10px 20px;
+    display: inline-block;
+    margin: 20px;
+}
+
+figcaption{
+    font-family: cursive;
+    font-weight: bold;
+}
+
+
+
